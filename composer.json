@@ -16,7 +16,7 @@
         "php": ">=5.3",
         "ext-pdo": "*",
         "gitonomy/gitlib": "dev-master",
-        "symfony/console": "2.3.5",
+        "symfony/console": "^2.5",
         "composer/composer": "^1.2.2"
     },
     "autoload"    : {
