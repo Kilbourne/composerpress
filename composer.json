@@ -17,7 +17,7 @@
         "ext-pdo": "*",
         "gitonomy/gitlib": "dev-master",
         "symfony/console": "2.3.5",
-        "composer/composer": "*"
+        "composer/composer": "^1.2.2"
     },
     "autoload"    : {
         "classmap": [
